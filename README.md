@@ -1,4 +1,4 @@
-#. mongo-apache-flink
+# mongo-apache-flink
 Script To Run Mongo Apache Flink
 
 # flinkpostgres
